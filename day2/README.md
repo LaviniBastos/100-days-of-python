@@ -2,7 +2,7 @@
 
 ## ✔ **Desafio**
 
-O desafio propõe a criação de diferentes tipos de variáveis, com o objtivo de:
+O desafio propõe a criação de diferentes tipos de variáveis, com o objetivo de:
 - Explorar os tipos de dados disponíveis em Python
 - Exibir os seus valores no terminal
 
