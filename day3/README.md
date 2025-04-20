@@ -1,7 +1,7 @@
 # 📅 Day 3
 
 ## ✔ Desafio
-Trabalhando com inputs e outputs
+*Trabalhando com inputs e outputs*
 
 O desafio propõe a criação de variáveis, porem o valor das variáveis serão inseridas pelo usuário, o objetivo é:
 - Ler uma entrada do usuário e exibir uma saudação inicial
