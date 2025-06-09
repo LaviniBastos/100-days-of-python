@@ -1,4 +1,4 @@
-## 📅 Day 28: Frequencia de palavra
+## 📅 Day 28: Frequência de palavras
 
 ### 🧩 Desafio  
 Escrever uma função para **contar a frequência das palavras** em uma **frase**. 
