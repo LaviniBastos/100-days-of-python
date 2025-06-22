@@ -1,0 +1,1 @@
+Aqui estão as informações que serão gravadas em um arquivo, aparti da função criada para facilitar esse processo.
