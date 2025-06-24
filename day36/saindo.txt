@@ -1,1 +1,2 @@
-Aqui estão as informações que serão gravadas em um arquivo, aparti da função criada para facilitar esse processo.Essa linha será adicionada ao ultima linha do arquivo
+Aqui estão as informações que serão gravadas em um arquivo, apartir da função criada para facilitar esse processo.
+Essa linha será adicionada ao ultima linha do arquivo
