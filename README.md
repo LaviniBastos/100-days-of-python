@@ -1,8 +1,8 @@
 # 100-days-of-python
 
-Esse repositório é meu desafio pessoal de codar por 100 dias consecutivos em **Python** 🐍  
+Esse repositório é meu desafio pessoal de codar por 100 dias em **Python**, o objetivo não é codar todo dia, e sim me manter em contato com a linguagem 🐍  
 Linguagem que gosto muito e já aprendi as bases mas que com outras tarefas diárias acabo não praticando tanto quanto gostaria.
-A ideia é reforçar os fundamentos, me divertir, documentar o processo, manter uma certa constância e compartilhar o aprendizado!
+A ideia é reforçar os fundamentos, me divertir, documentar o processo, manter uma certa constância e envolvimento com a linguagem e compartilhar o aprendizado!
 
 ## Como funciona?
 
