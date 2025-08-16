@@ -13,7 +13,7 @@ class Queue:
         print (f"Adicionado: {item}")
 
     def dequeue(self):
-        "Vai remover o primeiro elemento da fila"
+        # "Vai remover o primeiro elemento da fila"
         if not self.is_empty():
             item = self.items.popleft()
             print(f"Item removido: {item}")
@@ -44,4 +44,5 @@ fila.dequeue()
 fila.dequeue()
 print("Tamanho da fila:", fila.size())
 fila.dequeue()
+
 fila.dequeue()
