@@ -1,4 +1,4 @@
-## 📅 Day 51 - Binary Search Tree 🌳  
+## 📅 Day 51 - Binary Search Tree
 
 ### 🧩 Desafio  
 Implementar uma **árvore de busca binária (Binary Search Tree - BST)** em Python.  
